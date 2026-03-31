@@ -274,14 +274,6 @@ The main notebook (`Pharmacy2U_Project_A.ipynb`) reproduces the entire workflow:
 
 ---
 
-## 📧 Contact & Acknowledgments
-
-**Hackathon:** Pharmacy2U2‑day Hackathon  
-**Challenge:** A – Late Prescription Refill Risk  
-**Data:** CMS DE‑SynPUF (synthetic, for educational use)
-
----
-
 <div align="center">
 
 **Built with ❤️ for better patient medication adherence**
